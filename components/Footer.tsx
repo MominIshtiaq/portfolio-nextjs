@@ -6,7 +6,7 @@ import { socialMedia } from "@/data";
 const Footer = () => {
   return (
     <div
-      className="bg-[url('/footer-grid.svg')] h-[570px] w-full bg-cover bg-center flex flex-col mb-5"
+      className="bg-[url('/footer-grid.svg')] h-[360px] sm:h-[570px] w-full bg-cover bg-center flex flex-col mb-5"
       id="contact"
     >
       <div className="flex-1 flex items-center justify-center">

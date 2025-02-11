@@ -3,7 +3,7 @@ import { CardStack } from "./ui/CardStack";
 
 export function ApproachCard() {
   return (
-    <div className="h-[35rem] flex items-center justify-center w-full py-20">
+    <div className="h-[35rem] flex items-center justify-center w-full py-7 sm:py-20">
       <CardStack items={CARDS} />
     </div>
   );
