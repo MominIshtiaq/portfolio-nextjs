@@ -8,7 +8,7 @@ const Client = () => {
       className="pb-20 flex flex-col items-center justify-center"
       id="testimonials"
     >
-      <h1 className="text-bold text-5xl/[48px] tracking-tighter text-center">
+      <h1 className="font-bold sm:text-5xl/[48px] text-3xl tracking-tighter text-center">
         Kind Words from <span className="text-purple">satisfied clients</span>
       </h1>
       <InfiniteMovingCards
